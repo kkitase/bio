@@ -1,4 +1,4 @@
-# io
+# Bio
 
 - [English BIO](bio_en.txt)
 - [Japanese BIO](bio_jp.txt)
