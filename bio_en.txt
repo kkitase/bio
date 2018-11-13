@@ -1,0 +1,17 @@
+Kimihiko Kitase
+Google Cloud Japan G.K 
+Head of Enterprise Marketing
+
+<photo>
+
+Kimihiko Kitase is Head of Enterprise Marketing at Google Cloud Japan G.K. with responsibility for Account Based Marketing and Industry Marketing. Prior to joining Google Cloud Japan, he worked at Hortonworks Japan Co., Ltd. as Marketing Director, with responsibility for field marketing, digital marketing, partner marketing, ABM, community marketing, PR/AR, evangelism and contents creation. And he also manages outsourced inside sales team.  Prior to joining Hortonworks Japan, he worked at IBM Japan as senior marketing manager and cloud evangelist. He is well-known as one of cloud / virtualization experts and OSS contributor in Japan.  His technical specialty is Infrastructure, Big Data, Container, API management and DevOps. 
+
+Major publications:
+Apache CloudStack Basic (This is the first CloudStack book in the world.)
+SoftLayer System Implementation (This is the first SoftLayer book in the world.)
+SoftLayer Detail Guide (Contributed as supervisor)
+Virtualization Encyclopedia 2009 - 2013 (Contributed articles of cloud, desktop virtualization and server virtualization)
+Nikkei Technology Roadmap 2016 – 2017, 2017-2018 (Contribute cloud category)
+Big data Encyclopedia 2017 Contribute articles of big data. (Contribute Hortonworks category)
+
+
